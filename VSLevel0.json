@@ -1,19 +1,19 @@
 {
   "backgrounds": [
     {
-      "img": "ApedVS_Layer-2",
+      "img": "ApedVS_Layer-2.png",
       "zIndex": -2
     },
     {
-      "img": "ApedVS_Layer-1",
+      "img": "ApedVS_Layer-1.png",
       "zIndex": -1
     },
     {
-      "img": "ApedVS_Layer+1",
+      "img": "ApedVS_Layer+1.png",
       "zIndex": 1
     },
     {
-      "img": "ApedLayers_VS_v2",
+      "img": "ApedLayers_VS_v2.png",
       "zIndex": 2
     }
   ],
